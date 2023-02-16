@@ -1,2 +1,2 @@
-# rizomamesh.github.io
+# rizomaio-static-website
 Rizoma.io landing page
